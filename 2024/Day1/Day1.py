@@ -1,4 +1,4 @@
-file = open("2024\\input.txt", "r")
+file = open("2024\\input_day_1.txt", "r")
 row = 1000
 col = 2
 cord = []

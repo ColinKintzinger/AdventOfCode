@@ -1,0 +1,1 @@
+file = open("2024\\input_day_2.txt", "r")
